@@ -1,0 +1,20 @@
+
+.formbox{
+    border: 3px solid ;
+    padding: 30px;
+    margin: 30px;
+    background-color:rgba(158, 150, 150, 0.423);
+    color: darkblue;
+}
+.tablebox{
+    
+    padding: 30px;
+    margin: 30px;
+  
+}
+.table{
+    margin: 0px;
+    padding: 20px;
+    width: 100% !important;
+    border: 3px solid sienna !important;
+}
